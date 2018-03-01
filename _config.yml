@@ -1,6 +1,6 @@
 # Site settings
-title: 长安大学软件交流
-SEOTitle: 长安大学软件交流
+title: 长安大学软件系
+SEOTitle: 长安大学软件系
 header-img: img/home-bg.jpg
 email: 
 url: "chdsoftware.github.io"              # your host, for absolute URL
@@ -57,19 +57,13 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Aguin's Blog",
-        href: "http://www.cnblogs.com/Aguin/"
+        title: "A's Blog",
+        href: "#"
     },{
-        title: "AOQNRMGYXLMV's Blog",
-        href: "http://www.cnblogs.com/AOQNRMGYXLMV/"
+        title: "B's Blog",
+        href: "#"
     },{
-        title: "BIGBALLON's Blog",
-        href: "http://bigballon.github.io/"
-    },{
-        title: "ChenFan's Blog",
-        href: "http://jcf94.com/"
-    },{
-        title: "JJY's Blog",
-        href: "http://www.cnblogs.com/wuyuewoniu/"
+        title: "ChenWenKe's Blog",
+        href: "http://chenwenke.cn"
     }
 ]
