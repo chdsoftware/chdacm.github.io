@@ -1,9 +1,9 @@
 # Site settings
-title: 长安大学ACM集训队
-SEOTitle: 长安大学ACM集训队
+title: 长安大学软件交流
+SEOTitle: 长安大学软件交流
 header-img: img/home-bg.jpg
 email: 
-url: "chdacm.github.io"              # your host, for absolute URL
+url: "chdsoftware.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
